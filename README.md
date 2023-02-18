@@ -20,7 +20,7 @@ Initial screen upon loading Flashcard Challenge.🙂
     <img alt="Flashcard Challenge Home Page" src="images/Homepage.png">
 </p>
 
-Example of use
+Example of usage of the Flashcard
 
 <p align="center">
     <img alt="All three pages in the application" src="images/3screens.png">
