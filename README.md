@@ -1,4 +1,4 @@
-# Flashcards Challenge Codecademy
+# Flashcards Challenge
 
 ## About
 

@@ -1,5 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
+//creating a slice with redux toolkit
 const topicsSlice = createSlice({
   name: "topics",
   initialState: {
@@ -22,6 +23,7 @@ const topicsSlice = createSlice({
   }
 });
 
+//exporting Reducers, Action Creators, Selectors
 export const { addTopic, addQuizIdForTopic } = topicsSlice.actions;
 export const selectTopics = (state) => state.topics.topics;
 export default topicsSlice.reducer;
