@@ -9,7 +9,7 @@ Project developed as a challenge during the Front End Career Path Curriculum
 - [Technologies](#technologies)
 - [Goals](#goals)
 - [Routes](#routes)
-- [To Test](#totest)
+- [Test](#test)
 - [Questions](#questions)
 
 ### Screenshots
@@ -85,7 +85,7 @@ Test the React-Redux and Redux Tool Kit material learned.
 - `/quizzes` – index of all quizzes
 - `/quizzes/:quizId` – page for an individual quiz
 
-### To Test
+### Test
 
 1. Create topics
 2. Create quizzes
